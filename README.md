@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anandsharma2406/prompt-quality-agent/blob/main/notebook.ipynb)
 # prompt-quality-agent
 A LangChain agent that scores prompt quality across 5 criteria using Groq
 # 🧠 Prompt Quality Scoring Agent
